@@ -1,4 +1,4 @@
-pandas
-streamlit
-plotly
-statsmodels
+pandas==3.0.6
+streamlit==1.66.0
+plotly==7.1.0
+statsmodels==0.15.0
